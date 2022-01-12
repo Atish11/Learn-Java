@@ -1,0 +1,4 @@
+com\mycompany\interfaceclass\MySqlimol.class
+com\mycompany\interfaceclass\MainClass.class
+com\mycompany\interfaceclass\MongoDbImpl.class
+com\mycompany\interfaceclass\Database.class
